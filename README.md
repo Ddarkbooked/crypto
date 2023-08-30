@@ -12,7 +12,7 @@
 [bch]: https://github.com/Ddarkbooked/crypto/blob/main/icons/bch.png "Bitcoin Cash (BCH)"
 [bch-tw]: https://link.trustwallet.com/send?address=qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r&asset=c145
 
-Thank you!
+🙏 **Many thanks!**
 
 # Russia 🇷🇺
 ### 💳 Tinkoff (Bank Card)
