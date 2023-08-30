@@ -13,7 +13,7 @@
 [bch-tw]: https://link.trustwallet.com/send?address=qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r&asset=c145
 
 # Russia 🇷🇺
-### 💳 Tinkoff
+### 💳 Tinkoff (Bank Card)
 * [Tip Link][tinkoff-link]
 
 # Worldwide 🌏
