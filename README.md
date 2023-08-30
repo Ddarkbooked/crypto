@@ -1,7 +1,10 @@
+[bch]: https://github.com/Ddarkbooked/crypto/blob/main/icons/bch.png "BCH"
+
+
 # Crypto Adresses
 My public crypto addresses
 
-Reference-style: 
-![alt text][bch]
+![alt text][bch] BCH: My Public Address to Receive BCH: qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r 
+https://link.trustwallet.com/send?address=qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r&asset=c145
 
-[bch]: https://github.com/Ddarkbooked/crypto/blob/main/icons/bch.png "BCH"
+
