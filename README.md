@@ -14,6 +14,9 @@
 # Crypto Adresses
 My public crypto addresses
 
+![alt text][trx] Tron (TRX): **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r** or via [Trust Wallet][trx-tw]
+![alt text][btc] Bitcoin (BTC): **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r** or via [Trust Wallet][btc-tw]
+![alt text][eth] Etherium (ETH): **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r** or via [Trust Wallet][eth-tw]
 ![alt text][bch] Bitcoin Cash (BCH): **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r** or via [Trust Wallet][bch-tw]
 
 
