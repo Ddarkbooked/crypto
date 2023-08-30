@@ -12,19 +12,19 @@
 
 
 # Tron (TRX) ![alt text][trx]
-⋅⋅* **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r**
+⋅⋅* qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r
 ⋅⋅* [Trust Wallet][trx-tw]
 
 # Bitcoin (BTC) ![alt text][btc] 
-⋅⋅* **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r**
+⋅⋅* qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r
 ⋅⋅* [Trust Wallet][btc-tw]
 
 # Etherium (ETH) ![alt text][eth]
-⋅⋅* **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r**
+⋅⋅* qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r
 ⋅⋅* [Trust Wallet][eth-tw]
 
 # Bitcoin Cash (BCH) ![alt text][bch]
-⋅⋅* **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r**
+⋅⋅* qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r
 ⋅⋅* [Trust Wallet][bch-tw]
 
 
