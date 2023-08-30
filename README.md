@@ -2,6 +2,6 @@
 My public crypto addresses
 
 Reference-style: 
-![alt text][logo]
+![alt text][bch]
 
-[logo]: https://github.com/Ddarkbooked/crypto/blob/main/icons/bch.png "Logo Title Text 2"
+[bch]: https://github.com/Ddarkbooked/crypto/blob/main/icons/bch.png "BCH"
