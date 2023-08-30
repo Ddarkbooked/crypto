@@ -1,4 +1,3 @@
-[tinkoff]: https://github.com/Ddarkbooked/crypto/blob/main/icons/tinkoff.png "Tinkoff"
 [tinkoff-link]: https://www.tinkoff.ru/cf/5E5nOpqUFcF
 
 [trx]: https://github.com/Ddarkbooked/crypto/blob/main/icons/trx.png "Tron (TRX)"
@@ -14,7 +13,7 @@
 [bch-tw]: https://link.trustwallet.com/send?address=qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r&asset=c145
 
 # Russia 🇷🇺
-### ![tinkoff] Tinkoff
+### 💳 Tinkoff
 * [Tip Link][tinkoff-link]
 
 # Worldwide 🌏
