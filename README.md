@@ -1,2 +1,2 @@
-# crypto
+# Crypto Adresses
 My public crypto addresses
