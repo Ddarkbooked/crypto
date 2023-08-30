@@ -1,4 +1,5 @@
-[tinkoff]: https://www.tinkoff.ru/cf/5E5nOpqUFcF
+[tinkoff]: https://github.com/Ddarkbooked/crypto/blob/main/icons/tinkoff.png "Tinkoff"
+[tinkoff-link]: https://www.tinkoff.ru/cf/5E5nOpqUFcF
 
 [trx]: https://github.com/Ddarkbooked/crypto/blob/main/icons/trx.png "Tron (TRX)"
 [trx-tw]: https://link.trustwallet.com/send?address=TXoqNbCDg2c3dJQJYBvcAnBzbF3GXjzfW4&asset=c195
@@ -13,21 +14,23 @@
 [bch-tw]: https://link.trustwallet.com/send?address=qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r&asset=c145
 
 # Russia 🇷🇺
-### Tinkoff
+### ![tinkoff] Tinkoff
+* [Tip Link][tinkoff-link]
 
-# ![trx] Tron (TRX)
+# Worldwide 🌏
+### ![trx] Tron (TRX)
 * TXoqNbCDg2c3dJQJYBvcAnBzbF3GXjzfW4
 * [Trust Wallet][trx-tw]
 
-# ![btc] 
+### ![btc] Bitcoin (BTC)
 * bc1q706h9k6cny5jvqm2phkcd4r4ez60pta89xs9tc
 * [Trust Wallet][btc-tw]
 
-# ![eth]
+### ![eth] Etherium (ETH)
 * 0xb3630d2604CC4e2341D34c15060828ce9B12EaFe
 * [Trust Wallet][eth-tw]
 
-# ![bch]
+### ![bch] Bitcoin Cash (BCH)
 * qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r
 * [Trust Wallet][bch-tw]
 
