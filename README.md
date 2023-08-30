@@ -11,15 +11,20 @@
 [bch-tw]: https://link.trustwallet.com/send?address=qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r&asset=c145
 
 
-# Crypto Adresses
-My public crypto addresses
+# Tron (TRX) ![alt text][trx]
+⋅⋅* **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r**
+⋅⋅* [Trust Wallet][trx-tw]
 
-![alt text][trx] Tron (TRX): **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r** or via [Trust Wallet][trx-tw]
+# Bitcoin (BTC) ![alt text][btc] 
+⋅⋅* **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r**
+⋅⋅* [Trust Wallet][btc-tw]
 
-![alt text][btc] Bitcoin (BTC): **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r** or via [Trust Wallet][btc-tw]
+# Etherium (ETH) ![alt text][eth]
+⋅⋅* **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r**
+⋅⋅* [Trust Wallet][eth-tw]
 
-![alt text][eth] Etherium (ETH): **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r** or via [Trust Wallet][eth-tw]
-
-![alt text][bch] Bitcoin Cash (BCH): **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r** or via [Trust Wallet][bch-tw]
+# Bitcoin Cash (BCH) ![alt text][bch]
+⋅⋅* **qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r**
+⋅⋅* [Trust Wallet][bch-tw]
 
 
