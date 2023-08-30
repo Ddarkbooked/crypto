@@ -4,7 +4,7 @@
 # Crypto Adresses
 My public crypto addresses
 
-![alt text][bch] BCH: qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r
+![alt text][bch] BCH: qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r \nl
 or via Trust Wallet: https://link.trustwallet.com/send?address=qqpats2kpexreqrd3memhxa22enmqjgu6ukeg2k75r&asset=c145
 
 
